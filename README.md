@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -24,12 +24,14 @@
 
 ###
 
-<p align="center">🔥   My Stats</p>
+<h2 align="center">🔥 My Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanieleConsoli97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanieleConsoli97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanieleConsoli97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanieleConsoli97&theme=redical&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanieleConsoli97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+###
