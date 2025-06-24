@@ -22,6 +22,11 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest" height="40" alt="jest logo"  />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript" height="40" alt="jest logo"  />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/heroui" height="40" alt="jest logo"  />
+
 </div>
 
 ###
