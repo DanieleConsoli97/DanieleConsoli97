@@ -25,7 +25,9 @@
    <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript" height="40" alt="jest logo"  />
    <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroui" height="40" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/heroui" height="40" alt="heroui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello" height="40" alt="trello logo"  />
 
 </div>
 
