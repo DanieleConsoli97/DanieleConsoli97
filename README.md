@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello" height="40" alt="trello logo"  />
    <img width="12" />
-  <img src="https://cdn.simpleicons.org/shadcn-ui" height="40" alt="shadcn-ui logo"  />
+  <img src="https://cdn.simpleicons.org/shadcnui" height="40" alt="shadcn-ui logo"  />
   
 
 </div>
