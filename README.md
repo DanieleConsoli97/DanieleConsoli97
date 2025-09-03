@@ -28,6 +28,9 @@
   <img src="https://cdn.simpleicons.org/heroui" height="40" alt="heroui logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello" height="40" alt="trello logo"  />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/shadcn-ui" height="40" alt="shadcn-ui logo"  />
+  
 
 </div>
 
