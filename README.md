@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/8A8A8A" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" />
   <img width="12" />
@@ -45,9 +45,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/express/8A8A8A" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastify/000000" height="40" alt="fastify logo" />
+  <img src="https://cdn.simpleicons.org/fastify/8A8A8A" height="40" alt="fastify logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -59,27 +59,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo" />
+  <img src="https://cdn.simpleicons.org/php/8892BF" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="woocommerce logo" />
+  <img src="https://cdn.simpleicons.org/woocommerce/A46EC9" height="40" alt="woocommerce logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vitest/6E9F18" height="40" alt="vitest logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
-</div>
-
-###
-
-<h2 align="center">🔥 My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanieleConsoli97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanieleConsoli97&theme=redical&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanieleConsoli97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
