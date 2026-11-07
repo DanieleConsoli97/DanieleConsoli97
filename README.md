@@ -1,7 +1,13 @@
-<h2 align="center">Hi 👋 I'm Daniele, a Full Stack Developer from Catania, Italy</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=180&section=header&text=Daniele%20Consoli&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Catania%2C%20Italy&descSize=18&descAlignY=58" alt="Daniele Consoli - Full Stack Developer" width="100%" />
+</p>
 
 <p align="center">
-  I build complete SaaS products and management software — from the database schema to the API, the UI and the production deploy.<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+SaaS+from+database+to+deploy;Open+to+work+%C2%B7+Hybrid+%C2%B7+Remote" alt="Full Stack Developer · TypeScript · React · Node.js · PostgreSQL" />
+</p>
+
+<p align="center">
+  Hi 👋 I build complete SaaS products and management software — from the database schema to the API, the UI and the production deploy.<br/>
   <b>TypeScript · React · Node.js · PostgreSQL</b>
 </p>
 
@@ -71,3 +77,17 @@
 </div>
 
 ###
+
+<h2 align="center">🐍 Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieleConsoli97/DanieleConsoli97/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieleConsoli97/DanieleConsoli97/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DanieleConsoli97/DanieleConsoli97/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" width="100%" alt="" />
+</p>
